@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "394392168795",
+    "firebase_url": "https://energy-mangement.firebaseio.com",
+    "project_id": "energy-mangement",
+    "storage_bucket": "energy-mangement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394392168795:android:698f9241f08a145968527e",
+        "android_client_info": {
+          "package_name": "com.example.energym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394392168795-2fvg41n0do8oovnhjeglo377t3i3t95c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZaUm2pqYYCqlLhcDU3d8pvrEosiBaJ1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394392168795-2fvg41n0do8oovnhjeglo377t3i3t95c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
